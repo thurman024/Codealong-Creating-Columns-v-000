@@ -73,6 +73,11 @@ figcaption {
 
 /* Layout */
 
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
 .wrapper {
   width: 960px;
   margin: 0 auto;
