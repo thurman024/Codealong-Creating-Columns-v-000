@@ -72,6 +72,9 @@ figcaption {
 }
 
 /* Layout */
+* {
+  box-sizing: border-box;
+}
 
 section {
   margin-bottom: 20px;
